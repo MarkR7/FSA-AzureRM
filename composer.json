@@ -1,0 +1,13 @@
+{
+    "name": "mark/azure-cpl",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mark Charman",
+            "email": "mark@reaktor7.com.au"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
